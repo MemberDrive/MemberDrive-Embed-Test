@@ -1,3 +1,3 @@
 # MemberDrive-Embed-Test
 
-https://boosterstage.github.io/MemberDrive-Embed-Test/
+https://memberdrive.github.io/MemberDrive-Embed-Test/
